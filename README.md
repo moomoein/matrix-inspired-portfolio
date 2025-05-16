@@ -1,6 +1,6 @@
 # Moein Mehrani - Personal Portfolio Website
 
-![Portfolio Screenshot](https://placehold.co/1200x600/0a0f18/00ff9c?text=Portfolio+Preview)
+![Portfolio Preview](portfolio-thumbnail.png)
 ## Overview
 
 This is the personal portfolio website of Moein Mehrani, a passionate UI/UX & Product Designer, WordPress Expert, and AI-Enhanced Developer. This project showcases my skills, experience, and projects in a dynamic, interactive, and modern single-page application (SPA) format.
